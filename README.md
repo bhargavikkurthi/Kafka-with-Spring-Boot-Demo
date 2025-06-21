@@ -1,6 +1,6 @@
 # Spring Boot Kafka Reactive Project
 
-This is a sample Spring Boot project that demonstrates the integration of Kafka with a Spring Boot application. 
+This is a sample project that demonstrates the integration of Kafka with a Spring Boot application. 
 The project showcases key concepts related to Kafka, including topics, partitions, serialization, consumer groups, and offset management.
 
 ## Table of Contents
